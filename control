@@ -1,0 +1,9 @@
+Package: com.kalashrah.k10minibar
+Name: k10MiniBar
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: kalashrah
+Author: kalashrah
+Section: Tweaks
